@@ -1,0 +1,6 @@
+#игнорировать все .log files
+*.log
+#ignore папку temp
+temp/
+#игнорировать конкретный файл
+secret.txt
